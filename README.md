@@ -1,4 +1,9 @@
-# 👨‍💻 Caio Vinicius"
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Caio+Vinicius;Estudante+de+TI;" />
+</p>
+
+# 👨‍💻 Caio Vinicius
 
  **`Estudante de TI`**  
  
@@ -15,9 +20,9 @@
 ---
 
 ## ⚙️ Tecnologias
-- C++  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-- Fundamentos de Programação  ![Logic](https://img.shields.io/badge/Logic-Programming-blue?style=for-the-badge)
-- Redes (básico)  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-darkgreen?style=for-the-badge)
+- C++  
+- Fundamentos de Programação  
+- Redes (básico)
 
 ---
 
@@ -30,7 +35,7 @@
 ---
 
 ## 📊 Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ycaiovinicius&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ycaiovinicius&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br)
 
 ---
 
