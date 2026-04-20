@@ -1,4 +1,4 @@
-# 👋 Fala aí, eu sou o Caio!
+# 👋 Ola, eu me chamo Caio Vinicius!
 
 💻 Estudante de TI (Sistemas de Informação)  
 🔐 Interessado em Cibersegurança e Ethical Hacking  
