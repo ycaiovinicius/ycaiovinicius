@@ -1,11 +1,13 @@
-# 👋 Ola, eu me chamo Caio Vinicius!
+# 👨‍💻 Caio Vinicius"
 
-💻 Estudante de TI (Sistemas de Informação)  
-🔐 Interessado em Cibersegurança e Ethical Hacking  
+ **`Estudante de TI`**  
+ 
+💻 Sistemas de Informação  
+🔐 Cibersegurança | Ethical Hacking (em aprendizado) 
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 - 🎓 Cursando Sistemas de Informação  
 - ⚙️ Experiência acadêmica com C++  
 - 📚 Curso introdutório de CyberSecurity (Cisco Networking)  
@@ -13,9 +15,9 @@
 ---
 
 ## ⚙️ Tecnologias
-- C++  
-- Fundamentos de Programação  
-- Redes (básico)  
+- C++  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- Fundamentos de Programação  ![Logic](https://img.shields.io/badge/Logic-Programming-blue?style=for-the-badge)
+- Redes (básico)  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-darkgreen?style=for-the-badge)
 
 ---
 
