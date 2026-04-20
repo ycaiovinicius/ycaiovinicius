@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Fala aí, eu sou o Caio!
 
-<!--
-**ycaiovinicius/ycaiovinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de TI (Sistemas de Informação)  
+🔐 Interessado em Cibersegurança e Ethical Hacking  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🎓 Cursando Sistemas de Informação  
+- ⚙️ Experiência acadêmica com C++  
+- 📚 Curso introdutório de CyberSecurity (Cisco Networking)  
+
+---
+
+## ⚙️ Tecnologias
+- C++  
+- Fundamentos de Programação  
+- Redes (básico)  
+
+---
+
+## 🎯 Objetivos
+- Evoluir na área de desenvolvimento  
+- Aprofundar conhecimentos em Cibersegurança  
+- Explorar Pentest e Ethical Hacking  
+- Criar projetos práticos  
+
+---
+
+## 📊 Estatísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ycaiovinicius&show_icons=true)
+
+---
+
+🚀 *Sempre evoluindo...*
