@@ -8,7 +8,7 @@
  **`Estudante de TI`**  
  
 💻 Sistemas de Informação  
-🔐 Cibersegurança | Ethical Hacking (em aprendizado) 
+🔐 Cybersecurity | Ethical Hacking (em aprendizado) 
 
 ---
 
