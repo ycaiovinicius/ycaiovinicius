@@ -40,6 +40,7 @@
 ## 📫 Contato  
 
 📌 LinkedIn: https://www.linkedin.com/in/ycaiovinicius/  
+📧 Email: caiooincrivel@gmail.com  
 
 
 ---
