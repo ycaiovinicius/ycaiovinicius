@@ -5,7 +5,7 @@
 
 # 👨‍💻 Caio Vinicius
 
-🎓 **Estudante de Sistemas de Informação**    
+🎓 **`Estudante de Sistemas de Informação`**    
 
 ---
 
