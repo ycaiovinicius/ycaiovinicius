@@ -1,42 +1,51 @@
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Caio+Vinicius;Estudante+de+TI;" />
-</p>
+<!-- Typing animation --> 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Caio+Vinicius;Estudante+de+TI;" /> </p>
+
+---
 
 # 👨‍💻 Caio Vinicius
 
- **`Estudante de TI`**  
- 
-💻 Sistemas de Informação  
-🔐 Cybersecurity | Ethical Hacking (em aprendizado) 
+🎓 **Estudante de Sistemas de Informação**    
 
 ---
 
 ## 🧠 Sobre mim
-- 🎓 Cursando Sistemas de Informação  
-- ⚙️ Experiência acadêmica com C++  
-- 📚 Curso introdutório de CyberSecurity (Cisco Networking)  
+
+- Atualmente focado em desenvolver minha base em programação  
+- Praticando resolução de problemas e construção de algoritmos  
+- Experiência acadêmica com C++  
+- Curso introdutório em Cybersecurity (Cisco)    
 
 ---
 
-## ⚙️ Tecnologias
+## ⚙️ Tecnologias e Conhecimentos
+
 - C++  
-- Fundamentos de Programação  
-- Redes (básico)
+- Algoritmos  
+- Programação Estruturada  
+- Git & GitHub  
+- Fundamentos de Cybersecurity  
+- Fundamentos de Redes  
 
 ---
 
 ## 🎯 Objetivos
-- Evoluir na área de desenvolvimento  
-- Aprofundar conhecimentos em Cibersegurança  
-- Explorar Pentest e Ethical Hacking  
-- Criar projetos práticos  
+
+- Evoluir como desenvolvedor  
+- Construir projetos práticos  
+- Explorar a área de Cybersecurity no futuro  
+
+---
+
+## 📫 Contato  
+
+📌 LinkedIn: https://www.linkedin.com/in/ycaiovinicius/  
+
 
 ---
 
 ## 📊 Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ycaiovinicius&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br)
 
----
-
-🚀 *Sempre evoluindo...*
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ycaiovinicius&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"/>
+</p>
